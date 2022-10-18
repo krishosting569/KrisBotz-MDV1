@@ -70,9 +70,9 @@ global.psaweria = 'https://saweria.com/kosong'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6285810480036'
-global.namebot = 'raabotz_'
-global.nameown = 'diraarfz'
+global.nomorown = '6285786211623'
+global.namebot = '𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
+global.nameown = '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠'
 
 /*============== BIODATA ==============*/
 global.umurown = '15'
@@ -96,11 +96,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true],
-  ['6285810480036', 'diraarfz', true]
+  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
+  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
+  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
+  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true],
+  ['6285786211623', '𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -149,14 +149,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 © raabotz_ 」' //Main Watermark
-global.wm2 = '© raabotz_'
-global.wm3 = '© raabotz_ '
+global.wm = '                「 © 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 」' //Main Watermark
+global.wm2 = '© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
+global.wm3 = '© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `© raabotz_`
-global.packname = '☂︎ raabotz_'
-global.author = '                「raabotz_ あ」'
+global.titlebot = `© 𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
+global.author = '                「𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝 あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -647,8 +647,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'By dirafz'
-global.stickauth = `© raabotz`
+global.stickpack = '𝐊𝐫𝐢𝐬𝐁𝐨𝐭𝐳-𝐌𝐝'
+global.stickauth = `© 𝐊𝐫𝐢𝐬 𝐇𝐨𝐬𝐭𝐢𝐧𝐠`
 
 global.multiplier = 38 // The higher, The harder levelup
 

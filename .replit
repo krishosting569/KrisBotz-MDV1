@@ -1,2 +1,2 @@
-language = "nix"
-run = "node ."
+language = "nodejs"
+run = "cd KrisBotz-MDV1 && npm start"
